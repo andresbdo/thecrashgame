@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9fd57d8d71ad9f9ead091de873691df8",
+    "revision": "fb4a31314d28bbfe428a3b6f4a51fbfb",
     "url": "/thecrashgame/index.html"
   },
   {
-    "revision": "458125ac52bdd32b5a2e",
-    "url": "/thecrashgame/static/css/main.8e98c00d.chunk.css"
+    "revision": "483631dcb53028058923",
+    "url": "/thecrashgame/static/css/main.d9d43d6e.chunk.css"
   },
   {
     "revision": "f299f39c1f069c97a56d",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/thecrashgame/static/js/2.1bd3c1d3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "458125ac52bdd32b5a2e",
+    "revision": "483631dcb53028058923",
     "url": "/thecrashgame/static/js/main.fa42caf0.chunk.js"
   },
   {

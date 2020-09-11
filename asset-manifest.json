@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/thecrashgame/static/css/main.8e98c00d.chunk.css",
+    "main.css": "/thecrashgame/static/css/main.d9d43d6e.chunk.css",
     "main.js": "/thecrashgame/static/js/main.fa42caf0.chunk.js",
     "main.js.map": "/thecrashgame/static/js/main.fa42caf0.chunk.js.map",
     "runtime-main.js": "/thecrashgame/static/js/runtime-main.6076cd24.js",
@@ -8,9 +8,9 @@
     "static/js/2.1bd3c1d3.chunk.js": "/thecrashgame/static/js/2.1bd3c1d3.chunk.js",
     "static/js/2.1bd3c1d3.chunk.js.map": "/thecrashgame/static/js/2.1bd3c1d3.chunk.js.map",
     "index.html": "/thecrashgame/index.html",
-    "precache-manifest.b834b5502ab9cf8c785bdaab510ea598.js": "/thecrashgame/precache-manifest.b834b5502ab9cf8c785bdaab510ea598.js",
+    "precache-manifest.1e81d001e54b76cbb8290ee8c8d0b948.js": "/thecrashgame/precache-manifest.1e81d001e54b76cbb8290ee8c8d0b948.js",
     "service-worker.js": "/thecrashgame/service-worker.js",
-    "static/css/main.8e98c00d.chunk.css.map": "/thecrashgame/static/css/main.8e98c00d.chunk.css.map",
+    "static/css/main.d9d43d6e.chunk.css.map": "/thecrashgame/static/css/main.d9d43d6e.chunk.css.map",
     "static/js/2.1bd3c1d3.chunk.js.LICENSE.txt": "/thecrashgame/static/js/2.1bd3c1d3.chunk.js.LICENSE.txt",
     "static/media/bomb.svg": "/thecrashgame/static/media/bomb.be62f60c.svg",
     "static/media/explosion.svg": "/thecrashgame/static/media/explosion.1cd76f4d.svg",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.6076cd24.js",
     "static/js/2.1bd3c1d3.chunk.js",
-    "static/css/main.8e98c00d.chunk.css",
+    "static/css/main.d9d43d6e.chunk.css",
     "static/js/main.fa42caf0.chunk.js"
   ]
 }
