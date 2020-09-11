@@ -8,8 +8,7 @@
     margin: 2.5em auto;
     text-align: center;
     box-shadow: 4px 2px 21px -6px rgba(0,0,0,1);
-    background: rgb(255,144,144);
-    background: linear-gradient(0deg, rgba(255,144,144,0.8) 0%, rgba(252,198,198,0.8463760504201681) 6%, rgba(255,255,255,1) 22%);
+    background: white;
     font-family: 'Nunito';
     padding: 2em;
 }
