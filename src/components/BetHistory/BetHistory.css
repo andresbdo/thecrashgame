@@ -1,0 +1,51 @@
+#bet-history{
+    padding-top: 0.5em;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    grid-area: bet-history;
+    box-shadow: inset 5px 0px 10px -9px rgba(0,0,0,0.42);
+}
+
+#bet-history_title{
+    width: 100%;
+    display: flex;
+    flex-direction:column;
+}
+
+#bet-history_title_legend{
+    width: 100%;
+}
+
+#bet-history_title_items{
+    display: flex;
+    margin: 0.3em 0;
+    justify-content: space-around;
+}
+
+.bet-history_results_items{
+    width:33%;
+    margin: 0.3em auto;
+}
+
+.bet-history_title_item{
+    font-size: 0.9em;
+}
+
+.bet-history_results_list{
+    display: flex;
+    justify-content:space-evenly;
+    flex-direction: row;
+    align-items: center;
+    list-style: none;
+    padding-inline-start: 0;
+}
+
+#bet-history_results{
+    width:100%;
+    display: flex;
+    flex-direction: column-reverse;
+    list-style: none;
+    padding-inline-start: 0;
+}
+

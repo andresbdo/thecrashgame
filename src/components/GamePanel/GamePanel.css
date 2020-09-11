@@ -1,0 +1,43 @@
+#game-panel{
+    grid-area: game-panel;
+    display: grid;
+    grid-template-areas:    "game-starting"
+                            "multiplier"
+                            "bomb"
+                            "winner";
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    align-items: center;
+    max-height: 100%;
+    max-width: 100%;
+    color: black;
+    box-shadow: inset -13px 13px 5px -8px rgba(255,255,255,0.42);
+}
+
+#game-panel_new-round{
+    grid-area: game-starting;
+}
+
+#game-panel_multiplier{
+    font-size: 3em;
+    font-family: 'Montserrat';
+    grid-area: multiplier;
+}
+
+#game-panel_bomb{
+    width: 20%;
+    margin: 0 auto;
+}
+
+#game-panel_bomb_image{
+    width: 4em;
+}
+
+#game-panel_explosion_image{
+    width: 50%;
+}
+
+
+
+#game-panel_winner{
+    grid-area: winner;
+}

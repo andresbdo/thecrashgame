@@ -1,0 +1,57 @@
+
+#bet-better{
+    padding-top: 0.5em;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    grid-area: bet-better;
+    box-shadow: inset 5px -5px 12px -9px rgba(0,0,0,0.42);
+}
+
+#bet-better_title{
+    width: 100%;
+    display: flex;
+    flex-direction:column;
+}
+
+#bet-better_title_legend{
+    width: 100%;
+}
+
+#bet-better_title_items{
+    display: flex;
+    margin: 0.3em 0;
+    justify-content: space-around;
+}
+
+.bet-better_title_item{
+    font-size: 0.9em;
+}
+
+
+#bet-better_results_list{
+    display: flex;
+    justify-content:space-evenly;
+    flex-direction: row;
+    align-items: center;
+    list-style: none;
+    padding-inline-start: 0;
+}
+
+
+
+.bet-better_results_items{
+    width:33%;
+    margin: 0.3em auto;
+}
+
+
+
+#bet-better_results{
+    width:100%;
+    display: flex;
+    flex-direction: column-reverse;
+    list-style: none;
+    padding-inline-start: 0;
+}
+

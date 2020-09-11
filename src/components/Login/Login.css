@@ -1,0 +1,78 @@
+#login{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 30%;
+    max-height: 100%;
+    margin: 2.5em auto;
+    text-align: center;
+    box-shadow: 4px 2px 21px -6px rgba(0,0,0,1);
+    background: rgb(255,144,144);
+    background: linear-gradient(0deg, rgba(255,144,144,0.8) 0%, rgba(252,198,198,0.8463760504201681) 6%, rgba(255,255,255,1) 22%);
+    font-family: 'Nunito';
+    padding: 2em;
+}
+
+#login_logo{
+    width:70%;
+    height: 70%;
+}
+
+#login_form{
+    display:flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    height: 100%;
+    width: 50%;
+    margin: 4em auto 6em;
+}
+
+#login_form_button{
+    margin: 1em auto;
+    background: none;
+    border: none;
+    outline: none;
+    background:rgba(10, 255, 10, 0.6);
+    box-shadow: 2px 2px 7px -1px rgba(0,0,0,1);
+    font-family: 'Nunito';
+    padding: 0.5em;
+    width: 60%;
+}
+
+#login_form_button:hover{
+    cursor: pointer;
+    transform: translateY(1px);
+}
+
+#login_guest_button{
+    background: none;
+    border: none;
+    outline: none;
+}
+
+#login_guest_button:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
+.login_form_input{
+    border: none;
+    text-align: center;
+    outline: none;
+    margin: 0.5em auto 1em;
+    box-shadow: 0px 8px 7px 0px rgba(0, 0, 0, 0.6);
+    border-radius: 3px;
+    width: 100%;
+    font-size: 1em;
+}
+
+.login_form_label{
+    align-self: start;
+}
+
+.login_form_error{
+    background: red;
+    color: white;
+    font-size: 0.9em;
+}
